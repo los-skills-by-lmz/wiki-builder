@@ -1,2 +1,24 @@
-# wiki-builder
-One-click deployment Kaposi something something ー let something something automatically compile your raw material into a personal knowledge base
+# Wiki Builder - 你的AI知识库工程师
+
+一键部署卡帕西「LLM Wiki」方案，让Claude Code自动把你的原始素材编译成个人维基百科。
+
+## 这是什么？
+
+受Andrej Karpathy引爆硅谷的「LLM Wiki」概念启发，这个Skill让Claude Code成为你的「第二大脑总工程师」。
+
+**你只需要做一件事**：把文章、聊天记录、灵感扔进`01_原始素材库/`。
+
+**AI会自动做**：
+- 📝 为每篇素材写摘要
+- 🔗 自动建立双向链接
+- ✅ 提取待办清单
+- 📚 维护总目录`index.md`
+- 🔄 每周自检，发现孤立页面和过时信息
+
+## 快速开始
+
+### 1. 安装
+下载`wiki-builder.skill`文件，双击导入Claude Code。
+
+### 2. 初始化
+在你的项目根目录（或任意文件夹）执行：
